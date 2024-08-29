@@ -60,3 +60,6 @@
 /drush
 /drupal.phar
 /drupal
+
+*storybook.log
+/node_modules

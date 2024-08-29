@@ -1,0 +1,10 @@
+{% stories example with { title: 'Components/SDC/Example' } %}
+
+  {% story default with {
+    name: '1. Default',
+    args: { label: 'Hi! This is an Example SDC Component.' }
+  } %}
+    {% include 'drupal_sdc:example' with { label } %}
+  {% endstory %}
+
+{% endstories %}

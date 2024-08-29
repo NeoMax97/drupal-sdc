@@ -1,0 +1,9 @@
+name: 'Single Directory Components: Storybook'
+description: Storybook integration for Single Directory Components in Drupal
+type: module
+core_version_requirement: ^9 || ^10
+
+# Information added by Drupal.org packaging script on 2024-04-25
+version: '1.0.0-beta2'
+project: 'storybook'
+datestamp: 1714062102

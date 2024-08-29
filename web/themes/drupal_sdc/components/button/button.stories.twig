@@ -1,0 +1,10 @@
+{% stories button with { title: 'Components/SDC/Button' } %}
+
+  {% story default with {
+    name: '1. Default',
+    args: { label: 'Button', link: '/' }
+  } %}
+    {% include 'drupal_sdc:button' with { label, link } %}
+  {% endstory %}
+
+{% endstories %}

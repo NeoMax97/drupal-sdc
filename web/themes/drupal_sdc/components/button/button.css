@@ -1,0 +1,12 @@
+.sdc_button {
+  --button-padding: 8px 16px;
+  --button-bg-color: #93c54b;
+  --button-text-color: white;
+  --button-border-radius: 8px;
+
+  padding: var(--button-padding);
+  background: var(--button-bg-color);
+  text-decoration: none;
+  color: var(--button-text-color);
+  border-radius: var(--button-border-radius);
+}
