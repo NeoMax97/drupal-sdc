@@ -1,0 +1,17 @@
+{
+  "title": "Components/SDC/Example",
+  "parameters": {
+    "server": { "url": "https://drupal-sdc.ddev.site/storybook/stories/render" }
+  },
+  "stories": [
+    {
+      "name": "1. Default",
+      "args": { "label": "Hi! This is an Example SDC Component." },
+      "parameters": {
+        "server": {
+          "id": "eyJwYXRoIjoidGhlbWVzXC9kcnVwYWxfc2RjXC9jb21wb25lbnRzXC9leGFtcGxlXC9leGFtcGxlLnN0b3JpZXMudHdpZyIsImlkIjoiZGVmYXVsdCJ9"
+        }
+      }
+    }
+  ]
+}

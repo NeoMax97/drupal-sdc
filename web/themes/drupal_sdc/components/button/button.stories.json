@@ -1,0 +1,1 @@
+{"title":"Components\/SDC\/Button","parameters":{"server":{"url":"https:\/\/drupal-sdc.ddev.site\/storybook\/stories\/render"}},"stories":[{"name":"1. Default","args":{"label":"Button","link":"\/"},"parameters":{"server":{"id":"eyJwYXRoIjoidGhlbWVzXC9kcnVwYWxfc2RjXC9jb21wb25lbnRzXC9idXR0b25cL2J1dHRvbi5zdG9yaWVzLnR3aWciLCJpZCI6ImRlZmF1bHQifQ%3D%3D"}}}]}

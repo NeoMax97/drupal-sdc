@@ -1,0 +1,12 @@
+$schema: https://git.drupalcode.org/project/drupal/-/raw/10.1.x/core/modules/sdc/src/metadata.schema.json
+name: Button
+description: Just a normal button
+props:
+  type: object
+  properties:
+    label:
+      type: ["string", "null"]
+      description: (optional) (string) The button label text
+    link:
+      type: ["string", "null"]
+      description: (optional) Button Link
